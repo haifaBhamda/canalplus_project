@@ -5,9 +5,9 @@
 
 <b>step 2</b>: creation des repositories
 
-*creation des services et ces interfaces
+<b>step 2</b>:creation des services et ces interfaces
 
-*creation des controllers
+<b>step 2</b>:creation des controllers
 
 ### Tester l'api avec postman : 
 <b>Créer un nouvel abonnér</b>:<http://localhost:8080/api/createSubscriber>
