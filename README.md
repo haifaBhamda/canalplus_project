@@ -1,6 +1,5 @@
 # creation du spring boot Rest api avec H2 database
-#### ci-dessous la structure de projet 
-![Screenshot](pakaging structure.png)
+
 ### Development Steps : 
 <b>step 1</b>: creation des models 
 
