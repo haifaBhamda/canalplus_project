@@ -18,11 +18,12 @@
 <b>step 3</b>: creation des controllers
 
 ### Tester l'api avec postman : 
-*<b>Créer un nouvel abonnér</b>: [http://localhost:8080/api/createSubscriber] 
-*<b>Souscrire à un contrat </b>: [http://localhost:8080/api/subscribers/{subscriberId}/createcontract]
-*<b>Modifier l’adresse d'un abonné </b>: [http://localhost:8080/api/subscribers/{subscriberId}] 
-*<b>Récupérer les informations sur les contrats d’un abonné</b>: [http://localhost:8080/api/subscribers/{subscriberId}/getAllContracts]
-*<b>Récupérer l’historique des mouvements de modification effectués pour unabonné</b>: [http://localhost:8080/history/{subscriberId}/getHistory] 
+*<b>Créer un nouvel abonnér</b>:([http://localhost:8080/api/createSubscriber)
+
+*<b>Souscrire à un contrat </b>:[http://localhost:8080/api/subscribers/{subscriberId}/createcontract]
+*<b>Modifier l’adresse d'un abonné</b>:[http://localhost:8080/api/subscribers/{subscriberId}] 
+*<b>Récupérer les informations sur les contrats d’un abonné</b>:[http://localhost:8080/api/subscribers/{subscriberId}/getAllContracts]
+*<b>Récupérer l’historique des mouvements de modification effectués pour unabonné</b>:[http://localhost:8080/history/{subscriberId}/getHistory] 
 
 
 
