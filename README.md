@@ -9,7 +9,7 @@
 
 <b>step 2</b>:creation des controllers
 
-### Tester l'api avec postman : 
+### Tester l'api  : 
 <b>Créer un nouvel abonnér</b>:<http://localhost:8080/api/createSubscriber>
 
 <b>Souscrire à un contrat </b>:<http://localhost:8080/api/subscribers/{subscriberId}/createcontract>
